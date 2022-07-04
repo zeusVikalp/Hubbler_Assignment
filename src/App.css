@@ -1,7 +1,9 @@
-.App {
-  text-align: center;
-}
 
+.main-app-1{
+  margin-top: 50px;
+  display:grid;grid-template-columns: 25% 70%;
+  gap:2%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

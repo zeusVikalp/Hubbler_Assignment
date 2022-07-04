@@ -1,0 +1,211 @@
+.main-navbar{
+  
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.main-navbar-1{
+    display: flex;
+    justify-content:flex-start;
+    gap: 15px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.main-navbar-1>div{
+    line-height: 0px;
+}
+.nav-image-icon{
+    margin-top: 20px;
+    height:25px;
+    width:20px
+}
+.nav-image-icon-1-logo{
+    height:70px;
+    width:80px;
+    margin-right: 20px;
+}
+.main-navbar-2{
+    margin-top: 30px;
+    display: flex;
+    gap: 50px;
+    
+}
+.nav-btn-done{
+    width:90px;
+    height:40px;
+    font-weight: bold;
+    border-radius: 5px;
+    border:none;
+    margin-top: 10px;
+}
+.nav-btn-done:hover{
+    width:90px;
+    height:40px;
+    font-weight: bold;
+    border:1px solid grey;
+    border-radius: 5px;
+}
+
+
+/* for Rules file  */
+
+.main-rules-div{
+    margin-left: 60px;
+    margin-top:200px;
+    
+}
+.rules-input-box{
+ width: 200px;
+ height: 50px;
+ border-radius: 5px;
+ border :1px solid rgb(181, 181, 181);
+}
+.rules-input-box:focus{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border :1px solid rgb(15, 23, 255);
+   }
+.rules-btn-box{
+    width: 200px;
+    height: 50px; 
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+}
+.rules-btn-box:hover{
+    width: 200px;
+    height: 50px; 
+    font-weight: bold;
+    border: 1px solid grey;
+}
+.rule-box{
+    border:1px solid grey;
+    width: 203px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    gap:30px;
+    margin-top:10px;
+    
+}
+.main-rule-box{
+display: flex;
+gap:10px;
+}
+.ui-icons{
+    margin-top: 20px;
+}
+/* Rules Page Css */
+
+.main-rulesPage-div{
+    height:1700px;
+    border:1px solid grey;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-right: 10px;
+    padding-left:50px;
+}
+.main-rules-div-1-2{
+    display: flex;
+    gap:10px;
+    margin-top: -210px;
+    margin-left: -50px;
+
+}
+.rule-image-icon-1{
+margin-top: 10px;
+    height:30px;
+    width:30px;
+}
+.rule-box>h5{
+    margin-left: 20px;
+      }
+      .rule-box>h3{
+        margin-left: 20px;
+          }
+   
+/* Actions files css */
+
+
+
+.actions-input-box{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border :1px solid rgb(181, 181, 181);
+   }
+   .actions-input-box:focus{
+       width: 200px;
+       height: 50px;
+       border-radius: 5px;
+       border :1px solid rgb(15, 23, 255);
+      }
+   .actions-btn-box{
+       width: 200px;
+       height: 50px; 
+       font-weight: bold;
+       border:none;
+       border-radius: 5px;
+   }
+   .actions-btn-box :hover{
+    width: 200px;
+    height: 50px; 
+    font-weight: bold;
+    border: 1px solid grey;
+   }
+ 
+/* conditions files css */
+
+
+.conditions-todo-main{
+    display:flex;
+    gap:20px;
+    
+}
+.conditions-input-box-1-todo{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    border :1px solid rgb(181, 181, 181);
+    margin-left: -10px;
+   }
+   .conditions-select-box{
+       width:150px;
+       height:50px;
+       font-weight: bold;
+       border-radius: 5px;
+   }
+   .conditions-btn-box-1-todo{
+    width: 100px;
+    height: 50px; 
+    font-weight: bold;
+    border:none;
+    margin-top: 1px;
+    border-radius: 3px;
+    
+}
+   .conditions-input-box{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border :1px solid rgb(181, 181, 181);
+   }
+   .conditions-input-box:focus{
+       width: 200px;
+       height: 50px;
+       border-radius: 5px;
+       border :1px solid rgb(15, 23, 255);
+      }
+   .conditions-btn-box{
+       width: 200px;
+       height: 50px; 
+       font-weight: bold;
+       border:none;
+       border-radius: 5px;
+   }
+   .conditions-btn-box:hover{
+    width: 200px;
+    height: 50px; 
+    font-weight: bold;
+    border:1px solid grey;
+    
+}
