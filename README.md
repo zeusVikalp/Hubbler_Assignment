@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## Deployed Link
+    `https://celebrated-crostata-14f043.netlify.app/`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
